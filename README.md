@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<center><a href="https://gitroll.io/profile/uXTkKoHEviWWv3upRtV4M7y49xPM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uXTkKoHEviWWv3upRtV4M7y49xPM2" alt="GitRoll Profile Badge"/></a></center>
+
 <!--
 **wfjsw/wfjsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working for WashU DevSTAC and is in the progress of Master's degree on Cybersecurity Engineering at WashU.
+- 🌱 I’m currently learning Rust and React.
+- 📫 How to reach me: See sidebar for my personal website and LinkedIn page
